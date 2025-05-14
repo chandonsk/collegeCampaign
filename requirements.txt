@@ -1,0 +1,6 @@
+flask
+flask_cors
+werkzeug
+requests
+flask_mysqldb
+mysqlclient
